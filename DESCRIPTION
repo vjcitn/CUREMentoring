@@ -1,6 +1,6 @@
 Package: CUREMentoring
 Title: Background on YES for CURE mentoring
-Version: 0.0.1
+Version: 0.0.2
 Authors@R:
     person(given = "Vince",
            family = "Carey",

@@ -12,7 +12,21 @@ in cancer data science.
 This site has been created to help encourage scientists at Channing Division of Network Medicine
 and Harvard TH Chan School of Public Health to consider participating in the Dana Farber/Harvard Cancer
 [YES for CURE](https://www.dfhcc.harvard.edu/research/cancer-disparities/students/yes-for-cure/)
-mentoring program.
+mentoring program.  
+
+Mentoring activities will be linked to the establishment of content and 
+open, accessible teaching methods for introducing cancer
+data science early in students' educational experience.  Participating
+in mentorship will have multiple follow-on effects:
+
+- help grow the workforce
+- help pursue goals of equity and inclusiveness
+- bring fresh eyes and intuitions to your research efforts
+- explore potentials for growing this initiative beyond cancer data science
+
+More details are provided in links below that point to PDF documents on mentoring
+recruitment and training processes of YES for CURE.  If you have questions
+please contact stvjc at channing dot harvard dot edu or file an [issue](https://github.com/vjcitn/CUREMentoring/issues).
 
 ---
 
