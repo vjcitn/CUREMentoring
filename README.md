@@ -1,18 +1,23 @@
-# CUREMentoring
+
+![](man/figures/czilogo.jpg){width=200px}
+![](man/figures/Student_Recruitment_CURE_2022.jpg){width=200px}
+![](man/figures/bioconductor_logo_rgb.jpg){width=200px}
+
 
 The Bioconductor project has partial support from the Chan Zuckerberg Initiative
 in a Diversity and Inclusiveness special program.
 
 A brief summary of the project [is available](https://chanzuckerberg.com/eoss/proposals/bioconductor-sustaining-a-worldwide-community-of-genome-data-scientists/).  A main objective of
 the project is the production of open-source teaching materials that can
-be used for the engagement of high-school and undergraduate student
+be used for the engagement of high-school and undergraduate students
 from underrepresented communities
 in cancer data science.
 
 This site has been created to help encourage scientists at Channing Division of Network Medicine
 and Harvard TH Chan School of Public Health to consider participating in the Dana Farber/Harvard Cancer
 [YES for CURE](https://www.dfhcc.harvard.edu/research/cancer-disparities/students/yes-for-cure/)
-mentoring program.  
+mentoring program.  This program falls under the DFCI Initiative to Eliminate Cancer Disparities
+founded in 2001.
 
 Mentoring activities will be linked to the establishment of content and 
 open, accessible teaching methods for introducing cancer
@@ -23,6 +28,10 @@ in mentorship will have multiple follow-on effects:
 - help pursue goals of equity and inclusiveness
 - bring fresh eyes and intuitions to your research efforts
 - explore potentials for growing this initiative beyond cancer data science
+
+To apply for consideration of a mentoring project, complete [this form](https://www.surveymonkey.com/r/dfhccmentor2022).
+Applications should be submitted by the end of February; contact stvjc at channing dot harvard dot edu if
+more time is needed.
 
 More details are provided in links below that point to PDF documents on mentoring
 recruitment and training processes of YES for CURE.  If you have questions
