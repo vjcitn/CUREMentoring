@@ -1,4 +1,4 @@
-# Mentoring opportunity: Cancer data science for undergraduate and high school students
+# Mentoring opportunity: We are looking for researchers in cancer data science who are able to mentor undergraduate and high school students in this field
 
 ![](man/figures/czilogo.jpg){width=200px}
 ![](man/figures/Student_Recruitment_CURE_2022.jpg){width=200px}
