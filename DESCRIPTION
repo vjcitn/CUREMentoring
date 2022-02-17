@@ -1,6 +1,6 @@
 Package: CUREMentoring
 Title: Background on YES for CURE mentoring
-Version: 0.0.4
+Version: 0.0.5
 Authors@R:
     person(given = "Vince",
            family = "Carey",
@@ -14,3 +14,4 @@ License: Artistic-2.0
 VignetteBuilder: knitr
 biocViews: DNAMethylation
 BugReports: https://github.com/vjcitn/CUREMentoring/issues
+RoxygenNote: 7.1.2

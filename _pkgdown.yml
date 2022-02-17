@@ -8,4 +8,11 @@ home:
 
 navbar:
   structure: 
-    center: [github]
+  components:
+
+footer:
+  structure: 
+    left: 
+    right: 
+  components:
+    legal: 
