@@ -2,3 +2,10 @@ url: ~
 template:
   bootstrap: 5
 
+
+home:
+  sidebar: FALSE
+
+navbar:
+  structure: 
+    center: [github]

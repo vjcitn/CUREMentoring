@@ -21,6 +21,7 @@ Bioconductor project](https://chanzuckerberg.com/eoss/proposals/bioconductor-sus
 
 **Mentoring Opportunity:**
 
+- Learn about the [2022 summer program](https://www.dfhcc.harvard.edu/research/cancer-disparities/students/cure-overview/)
 - Commit to mentoring a student in Summer 2022
     - Students commit to 8-12 weeks of full-time work
     - May 31 - August 19 2022
